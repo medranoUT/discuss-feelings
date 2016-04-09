@@ -95,3 +95,6 @@ interesting things I read today/yesterday:
 https://medium.com/@ian/the-real-value-of-side-projects-4d30c1ea4283   
 https://10kloc.wordpress.com/2016/04/03/effective-code-reviews/   
 http://thecodist.com/article/my-biggest-regret-as-a-programmer   
+
+
+Julian Medrano
