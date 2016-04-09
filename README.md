@@ -89,7 +89,11 @@ Sarah
 -----
 There's a new reddit app for iphone I'm very excited about this.
 
-???
+-----
+
+Julian
+
+Just realized how much I don't know github lol :^). Thanks god im doing this. And just played rocket league for the first time.
 ---
 interesting things I read today/yesterday:  
 https://medium.com/@ian/the-real-value-of-side-projects-4d30c1ea4283   
